@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanonWebsite", "CanonWebsite\CanonWebsite.csproj", "{45DC9B5B-C0EB-465C-ABC3-3710E8FD8CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanonCore", "CanonCore\CanonCore.csproj", "{5AA93924-BDC4-41AA-AA06-A892AF9C9338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DC9B5B-C0EB-465C-ABC3-3710E8FD8CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DC9B5B-C0EB-465C-ABC3-3710E8FD8CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DC9B5B-C0EB-465C-ABC3-3710E8FD8CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DC9B5B-C0EB-465C-ABC3-3710E8FD8CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA93924-BDC4-41AA-AA06-A892AF9C9338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA93924-BDC4-41AA-AA06-A892AF9C9338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA93924-BDC4-41AA-AA06-A892AF9C9338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA93924-BDC4-41AA-AA06-A892AF9C9338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
